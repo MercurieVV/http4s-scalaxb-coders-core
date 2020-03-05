@@ -1,0 +1,6 @@
+An awesome Http4s Scalaxb coders
+
+Links:
+
+ - [[https://mercurievv.github.io/http4s-scalaxb-coders/ Homepage]]
+ - [[https://github.com/MercurieVV/http4s-scalaxb-coders GitHub repository]]
